@@ -4,7 +4,9 @@ import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
 public class TeleOpMain extends OpMode{
-
+    
+        //Abdullah is GAY
+    
     private MotorController frontLeftMotor;
     private MotorController backLeftMotor;
     private MotorController frontRightMotor;
