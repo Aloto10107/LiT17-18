@@ -5,6 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 @com.qualcomm.robotcore.eventloop.opmode.Autonomous(name="Pompeii: Autonomous", group="Pompeii")
 public class Autonomous extends LinearOpMode {
 
+        //Abdullah is GAY
 
     @Override
     public void runOpMode() throws InterruptedException {
