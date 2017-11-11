@@ -5,8 +5,10 @@ import com.qualcomm.robotcore.hardware.HardwareMap;
 public class Navigation {
 
     //TODO: Calculate the robot speed and turn speed by testing it
+    //Abdullah is GAY
 
     // This is the speed of the robot.
+    //stupid
     private static final double SPEED = 1;
     // This is the speed that the robot turns
     private static final double TURN_SPEED = 1;
